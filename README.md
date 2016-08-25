@@ -31,8 +31,8 @@ A curated list of books, articles, and other sources on Shakespeare and music. C
 
 <a name="psychoanalysis" />
 ## Shakespeare and Psychoanalysis
-* Armstrong, Philip. 2001. *Shakespeare in Psychoanalysis*. New York: Routledge.
-* ———. 2000. *Shakespeare’s Visual Regime: Tragedy, Psychoanalysis, and the Gaze*. Basingstoke: Palgrave Macmillan.
+* Armstrong, Philip. 2000. *Shakespeare’s Visual Regime: Tragedy, Psychoanalysis, and the Gaze*. Basingstoke: Palgrave Macmillan.
+* ———. 2001. *Shakespeare in Psychoanalysis*. New York: Routledge.
 * Bradley, A. C. 1937. *Shakespearean Tragedy: Lectures on "Hamlet," "Othello," "King Lear," "Macbeth"*. 2nd ed. London: Macmillan.
 * Fike, Matthew A. 2009. *A Jungian Study of Shakespeare: The Visionary Mode*. New York: Palgrave Macmillan.
 * Krims, Marvin Bennett. 2006. *The Mind According to Shakespeare: Psychoanalysis in the Bard’s Writing*. Westport, CT: Praeger.
@@ -53,8 +53,8 @@ A curated list of books, articles, and other sources on Shakespeare and music. C
 * Hill, Wayne F., and Cynthia J. Öttchen. 2003. *Shakespeare and the Art of Verbal Seduction*. New York: Three Rivers Press.
 * Hirsh, James. 1997. “Shakespeare and the History of Soliloquies.” *Modern Language Quarterly* 58 (1): 1–26.
 * Hodgdon, Barbara, and W. B. Worthen, eds. 2005. *A Companion to Shakespeare and Performance*. Malden, MA: Blackwell.
-* Jackson, Russell. 2007. *Shakespeare Films in the Making: Vision, Production and Reception*. Cambridge: Cambridge University Press.
-* ——— , ed. 2007. *The Cambridge Companion to Shakespeare on Film*. 2nd ed. Cambridge: Cambridge University Press.
+* Jackson, Russell. 2007a. *Shakespeare Films in the Making: Vision, Production and Reception*. Cambridge: Cambridge University Press.
+* ——— , ed. 2007b. *The Cambridge Companion to Shakespeare on Film*. 2nd ed. Cambridge: Cambridge University Press.
 * Mack, Peter. 2010. *Reading and Rhetoric in Montaigne and Shakespeare*. London: Bloomsbury.
 * McEachern, Claire, ed. 2002. *The Cambridge Companion to Shakespearean Tragedy*. Cambridge: Cambridge University Press.
 * McEvoy, Sean. 2000. *Shakespeare: The Basics*. New York: Routledge.
