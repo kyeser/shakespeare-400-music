@@ -1,6 +1,6 @@
 # Bibliography on Shakespeare and Music
 
-A curated list of books, articles, and other sources on Shakespeare and music.
+A curated list of books, articles, and other sources on Shakespeare and music. Compiled by **Hee Seng Kye** at [**Undoing Musicology**](http://undoingmusicology.com).
 
 ## Table of Contents
 
