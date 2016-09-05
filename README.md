@@ -54,7 +54,7 @@ A curated list of books, articles, and other sources on Shakespeare and music. C
 * Hirsh, James. 1997. “Shakespeare and the History of Soliloquies.” *Modern Language Quarterly* 58 (1): 1–26.
 * Hodgdon, Barbara, and W. B. Worthen, eds. 2005. *A Companion to Shakespeare and Performance*. Malden, MA: Blackwell.
 * Jackson, Russell. 2007a. *Shakespeare Films in the Making: Vision, Production and Reception*. Cambridge: Cambridge University Press.
-* ——— , ed. 2007b. *The Cambridge Companion to Shakespeare on Film*. 2nd ed. Cambridge: Cambridge University Press.
+* ———, ed. 2007b. *The Cambridge Companion to Shakespeare on Film*. 2nd ed. Cambridge: Cambridge University Press.
 * Mack, Peter. 2010. *Reading and Rhetoric in Montaigne and Shakespeare*. London: Bloomsbury.
 * McEachern, Claire, ed. 2002. *The Cambridge Companion to Shakespearean Tragedy*. Cambridge: Cambridge University Press.
 * McEvoy, Sean. 2000. *Shakespeare: The Basics*. New York: Routledge.
