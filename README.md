@@ -1,15 +1,14 @@
 # Bibliography on Shakespeare and Music
 
-A curated list of books, articles, and other sources on Shakespeare and music. Compiled by **Hee Seng Kye** at [**Undoing Musicology**](https://undoingmusicology.com).
+A curated list of books, articles, and other sources on Shakespeare and music. Compiled by Hee Seng Kye at [Undoing Musicology](https://undoingmusicology.com).
 
 ## Table of Contents
 
-- [Shakespeare and Music](#music)
-- [Shakespeare and Opera](#opera)
-- [Shakespeare and Psychoanalysis](#psychoanalysis)
-- [To be categorised](#tbc)
+- [Shakespeare and Music](#shakespeare-and-music)
+- [Shakespeare and Opera](#shakespeare-and-opera)
+- [Shakespeare and Psychoanalysis](#shakespeare-and-psychoanalysis)
+- [To be categorised](#to-be-categorised)
 
-<a name="music" />
 ## Shakespeare and Music
 * Albright, Daniel. 2007. [*Musicking Shakespeare: A Conflict of Theatres*](https://www.amazon.com/Musicking-Shakespeare-Eastman-Studies-Music/dp/1580462553). Rochester, NY: University of Rochester Press.
 * Auden, W. H. 1962. “Shakespeare in Music.” In [*The Dyer’s Hand and Other Essays*](https://www.amazon.com/Dyers-Hand-Other-Essays/dp/0679724842/), by W. H. Auden, 500–27. New York: Random House.
@@ -20,7 +19,6 @@ A curated list of books, articles, and other sources on Shakespeare and music. C
 * Wall, John N. 1979. [“Shakespeare’s Aural Art: The Metaphor of the Ear in *Othello*.”](http://www.jstor.org/stable/2869471) *Shakespeare Quarterly* 30 (3): 358–66.
 * Wilson, Christopher R., and Michela Calore. 2005. [*Music in Shakespeare: A Dictionary*](https://www.amazon.com/Music-Shakespeare-Dictionary-Arden-Dictionaries/dp/1472520319/). London: Continuum.
 
-<a name="opera" />
 ## Shakespeare and Opera
 * Budden, Julian. 1992a. [*The Operas of Verdi*. Vol. 1, *From “Oberto” to “Rigoletto”*](https://www.amazon.com/Operas-Verdi-Oberto-Rigoletto/dp/0198162618/). New York: Clarendon.
 * ———. 1992b. [*The Operas of Verdi*. Vol. 2, *From “Il Trovatore” to “La Forza del Destino”*](https://www.amazon.com/Operas-Verdi-Trovatore-Clarendon-Paperbacks/dp/0198162626/). New York: Clarendon.
@@ -29,7 +27,6 @@ A curated list of books, articles, and other sources on Shakespeare and music. C
 * ———. 1987. [*Giuseppe Verdi: “Otello”*](https://www.amazon.com/Giuseppe-Verdi-Otello-Cambridge-Handbooks/dp/0521277493/). Cambridge Opera Handbooks. Cambridge: Cambridge University Press.
 * Wills, Garry. 2011. [*Verdi’s Shakespeare: Men of the Theater*](https://www.amazon.com/Verdis-Shakespeare-Theater-Garry-Wills/dp/0143122223/). New York: Penguin.
 
-<a name="psychoanalysis" />
 ## Shakespeare and Psychoanalysis
 * Armstrong, Philip. 2000. *Shakespeare’s Visual Regime: Tragedy, Psychoanalysis, and the Gaze*. Basingstoke: Palgrave Macmillan.
 * ———. 2001. *Shakespeare in Psychoanalysis*. New York: Routledge.
@@ -39,7 +36,6 @@ A curated list of books, articles, and other sources on Shakespeare and music. C
 * Lupton, Julia Reinhard, and Kenneth Reinhard. 1993. *After Oedipus: Shakespeare in Psychoanalysis*. Ithaca, NY: Cornell University Press.
 * Samuels, Robert. 2001. *Writing Prejudices: The Psychoanalysis and Pedagogy of Discrimination from Shakespeare to Toni Morrison*. Albany: State University of New York Press.
 
-<a name="tbc" />
 ## To be categorised
 * Batson, Beatrice, ed. 2006. *Shakespeare’s Christianity: The Protestant and Catholic Poetics of “Julius Caesar”, “Macbeth”, and “Hamlet”*. Waco, TX: Baylor university press.
 * Cook, Amy. 2010. *Shakespearean Neuroplay: Reinvigorating the Study of Dramatic Texts and Performance Through Cognitive Science*. New York: Palgrave Macmillan.
